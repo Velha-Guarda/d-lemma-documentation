@@ -43,9 +43,10 @@ O sistema contará com funcionalidades como cadastro de usuários, gestão de di
 Este repositório armazena arquivos como:
 
 - Levantamento de requisitos
-- Relatórios de sprints (Sprint 0 e Sprint 1)
+- Relatórios de sprints
 - Planejamento de arquitetura e testes
 - Estratégias de desenvolvimento e roadmap do projeto
+- Dentre outros
 
 Todo o material é atualizado periodicamente para refletir o progresso e decisões do grupo.
 
